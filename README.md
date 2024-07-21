@@ -1,4 +1,5 @@
-# Parameter Roulette
+
+# Randomized
 
 This Go program generates a random list of names and displays them in HTML. Good to be used in workshops etc.
 
@@ -29,6 +30,10 @@ Ensure that Go is installed on your system.
 ```plaintext
 http://localhost:8080/klaus,linus,jonas,julia
 ```
+
+## Live Demo
+
+You can try out the application live at: [https://randomized.fly.dev/](https://randomized.fly.dev/)
 
 ## Customization
 
